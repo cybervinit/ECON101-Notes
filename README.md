@@ -12,7 +12,5 @@ Done! Open notes with *Typora* and enjoy.
 
 
 
-#### Simplicity, Elegance, anywhere on Earth. $^1$
-
-[^ 1]: Requires internet for most updated lecture notes
+#### Simplicity, Elegance, anywhere on Earth.
 
