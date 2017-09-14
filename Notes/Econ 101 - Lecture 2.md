@@ -1,8 +1,6 @@
 ## Econ 101 - Lecture 2
 
----
-
-For **MyEconLab**, go to MyEconLab.com and enter *aytenfisu35013* 
+--- 
 
 
 
